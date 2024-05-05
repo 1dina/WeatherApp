@@ -31,7 +31,7 @@ Weather App is an Android application that provides real-time weather informatio
 
  ## Video Demo
 To see a demonstration of the app, watch the video below:
-https://github.com/1dina/WeatherApp/assets/40719195/e6957ec3-7792-4582-84a3-2fe8f2e3aa0e
+https://github.com/1dina/WeatherApp/assets/40719195/b2500098-d789-4bdb-a49d-556ef447825d
 
 ## Stay Connected
 Thank you for exploring the Weather App! We hope it helps you stay informed about weather conditions and forecasts. If you have any questions or feedback, feel free to contact us .
