@@ -30,5 +30,9 @@ Weather App is an Android application that provides real-time weather informatio
 - Ensure you have the necessary permissions and API keys for accessing weather data.
 
 ## Stay Connected
+
+https://github.com/1dina/WeatherApp/assets/40719195/e6957ec3-7792-4582-84a3-2fe8f2e3aa0e
+
+
 Thank you for exploring the Weather App! We hope it helps you stay informed about weather conditions and forecasts. If you have any questions or feedback, feel free to contact us .
 Keep checking back for updates and new features. Enjoy the app, and don't forget to stay weather-aware!
