@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="celsius">°</string>
+    <string name="feels_like">%1$s° / %2$s° Feels like %3$s°</string>
+    <string name="forecast">Five Days Forecast</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">"Search a city name "</string>
+    <string name="last_update">Last update : just now</string>
+
+</resources>
